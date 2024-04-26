@@ -2,42 +2,45 @@ body {
     margin: 0;
 }
 
-.header-area{
+.header-area {
     padding: 10px 0;
 }
 
-.fix{
+.fix {
     overflow: hidden;
 }
-.container{
+
+.container {
     width: 1000px;
     margin: auto;
 }
-.logo{
+
+.logo {
     float: left;
 }
-.logo img{
+
+.logo img {
     width: 100px;
 }
 
-.menu{
+.menu {
     float: right;
 }
-.menu ul{
+
+.menu ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-.menu ul li{
+.menu ul li {
     float: left;
     margin-left: 10px;
 }
 
-.menu ul li a{
+.menu ul li a {
     background-color: #000;
     color: #fff;
     padding: 20px;
     display: block;
 }
-
