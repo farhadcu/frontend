@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+.header-area{
+    padding: 10px 0;
+}
+
+.fix{
+    overflow: hidden;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+.logo{
+    float: left;
+}
+.logo img{
+    width: 100px;
+}
+
+.menu{
+    float: right;
+}
+.menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li{
+    float: left;
+    margin-left: 10px;
+}
+
+.menu ul li a{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    display: block;
+}
+
